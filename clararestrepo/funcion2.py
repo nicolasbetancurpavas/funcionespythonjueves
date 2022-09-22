@@ -1,5 +1,6 @@
 #Resto de función 
 
+#Clara Manuela Restrepo Rua
 def calcularTemperatura():
     temperaturas = []
     for i in range(0,20,1):
