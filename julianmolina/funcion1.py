@@ -1,1 +1,2 @@
-#funciones con python
+#Funciones Con Python
+print("¿Hola, como estas?")
