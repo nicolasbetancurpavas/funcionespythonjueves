@@ -1,7 +1,6 @@
 #DECLARACIÓN DE FUNCIONES EN PYTHON
-def saludar():
-    nombre = input("Ingrese nombre: ")
+def saludar(nombre):
     print(f'Hola: {nombre}')
 
 #LLamar a la función
-saludar()
+saludar('Daniel')
