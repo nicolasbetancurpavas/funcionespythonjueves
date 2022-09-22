@@ -18,3 +18,11 @@ def min_max(numeros):
 datos = [1,2,3,5,4,97,4,21,6,4,12,8,5,64,11,66,20,36,47,57]
 
 print(min_max(datos))
+#DECLARANDO FUNCIONES EN PYTHON 
+
+def saludar(nombre):
+    print(f'hola: {nombre}')
+    
+    
+#utilizar o llamar funcion en python
+saludar("Arian")
